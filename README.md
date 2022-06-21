@@ -18,7 +18,7 @@ git clone https://github.com/kdandy/crimson-BadUSB
 
 ## Demo and Documentation
 
-- Open the Youtube tutorials installation [demo page](https://www.youtube.com/watch?v=3_xiK6oQjz8)
+- Open the Youtube tutorials installation [install](https://www.youtube.com/watch?v=3_xiK6oQjz8)
 - Open the [source code](http://github.com/kdandy/Crimson-BadUSB)
 
 ### Note
