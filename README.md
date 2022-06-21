@@ -4,7 +4,7 @@
 
 </p>
 
-[![Screenshot](https://user-images.githubusercontent.com/50922642/174857396-82506b38-e93c-432d-8993-b51835d5c4e9.mp4)
+https://user-images.githubusercontent.com/50922642/174857396-82506b38-e93c-432d-8993-b51835d5c4e9.mp4
 
 ## Installation
 
