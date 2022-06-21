@@ -22,7 +22,7 @@ git clone https://github.com/kdandy/TelegramRAT-BadUSB
 
 ## Demo and Documentation
 
-- Open the Youtube tutorials installation [install](https://www.youtube.com/watch?v=3_xiK6oQjz8)
+- Open the Youtube tutorials [installation](https://www.youtube.com/watch?v=3_xiK6oQjz8)
 - Open the [source code](http://github.com/kdandy/TelegramRAT-BadUSB)
 
 ### Note
