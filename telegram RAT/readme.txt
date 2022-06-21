@@ -1,1 +1,0 @@
-tekan capslock 2x untuk mengaktifkan
