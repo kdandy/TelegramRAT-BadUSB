@@ -11,7 +11,7 @@
 1. Clone this repository or download zip
 
 ```bash
-git clone https://github.com/kdandy/crimson-BadUSB
+git clone https://github.com/kdandy/TelegramRAT-BadUSB
 ```
 
 2. Open `Used your BadUSB` to see the computer
@@ -19,7 +19,7 @@ git clone https://github.com/kdandy/crimson-BadUSB
 ## Demo and Documentation
 
 - Open the Youtube tutorials installation [install](https://www.youtube.com/watch?v=3_xiK6oQjz8)
-- Open the [source code](http://github.com/kdandy/Crimson-BadUSB)
+- Open the [source code](http://github.com/kdandy/TelegramRAT-BadUSB)
 
 ### Note
 
@@ -31,7 +31,7 @@ Code released under the MIT license.
 
 ## Bugs and Issues
 
-Have a bug or an issue with this template? [Open a new issue](https://github.com/kdandy/crimson-BadUSB/issues/new) here on GitHub.
+Have a bug or an issue with this template? [Open a new issue](https://github.com/kdandy/TelegramRAT-BadUSB/issues/new) here on GitHub.
 
 ## Donate
 
