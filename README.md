@@ -1,42 +1,37 @@
-<h1 align="center">Payload Crimson BadUSB - RAT Telegram BOT</h1>
-<p align="center"></p>
+<h1 align="center">Crimson BadUSB - Control computer remotely via telegram</h1>
+<p align="center">RAT or Remote Administration Tool is a piece of software that is used to remotely control a computer</p>
 <p align="center">
 
 </p>
 
-![Screenshot](https://user-images.githubusercontent.com/50922642/154951895-39b9182b-21e6-40c1-aea3-263e6c8d6d42.png)
+![Screenshot]([https://user-images.githubusercontent.com/50922642/154951895-39b9182b-21e6-40c1-aea3-263e6c8d6d42.png](https://user-images.githubusercontent.com/50922642/174778292-7c3470a0-f92d-4704-9a87-02ed04bd4cde.png)
 
 ## Installation
 
 1. Clone this repository or download zip
 
 ```bash
-git clone https://github.com/kdandy/engjoy
+git clone https://github.com/kdandy/crimson-BadUSB
 ```
 
-2. Open `yoursite/index.html` to see the dashboard
+2. Open `Used your BadUSB` to see the dashboard
 
 ## Demo and Documentation
 
-- Open the [demo page](http://engjoy.netlify.app)
-- Open the [source code](http://github.com/kdandy/engjoy)
+- Open the Youtube tutorials installation [demo page](https://www.youtube.com/watch?v=3_xiK6oQjz8)
+- Open the [source code](http://github.com/kdandy/Crimson-BadUSB)
 
 ### Note
 
-- If you want to make some changes in the CSS style. Don't edit the `.css` file, use the SCSS file instead.
-- Since we use Nunjucks, if you want to make changes to the HTML structure, make sure you change the source file (Nunjucks) located in `src`.
+- It is highly recommended to use a new telegram account dedicated for this purpose only to secure the main telegram account.
 
 ## Copyright and License
 
 Code released under the MIT license.
 
-## About the Author
-
-engJoy is created by <a href="https://kdandy.com">jaden</a>.
-
 ## Bugs and Issues
 
-Have a bug or an issue with this template? [Open a new issue](https://github.com/kdandy/engjoy/issues/new) here on GitHub.
+Have a bug or an issue with this template? [Open a new issue](https://github.com/kdandy/crimson-BadUSB/issues/new) here on GitHub.
 
 ## Donate
 
