@@ -14,7 +14,7 @@
 git clone https://github.com/kdandy/crimson-BadUSB
 ```
 
-2. Open `Used your BadUSB` to see the dashboard
+2. Open `Used your BadUSB` to see the computer
 
 ## Demo and Documentation
 
