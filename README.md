@@ -4,7 +4,7 @@
 
 </p>
 
-https://user-images.githubusercontent.com/50922642/174858230-94827ff4-08bc-4dc4-94cc-f05a9503082a.mp4
+https://user-images.githubusercontent.com/50922642/174858819-cad2ab38-4dd5-4ac6-81eb-4c69d61475c9.mp4
 
 ## Installation
 
