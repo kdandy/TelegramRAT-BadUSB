@@ -37,6 +37,10 @@ Code released under the MIT license.
 
 Have a bug or an issue with this template? [Open a new issue](https://github.com/kdandy/TelegramRAT-BadUSB/issues/new) here on GitHub.
 
+## Buy Crimson BadUSB
+
+if you want to buy Crimson BadUSB available in the marketplace [Shopee](https://shopee.co.id/Crimson-BadUSB-Lebih-dari-USB-Rubber-Ducky-i.326233063.5058615385?sp_atk=1992cf80-9459-4f0c-b358-a0a3b7000894&xptdk=1992cf80-9459-4f0c-b358-a0a3b7000894) and [Tokopedia](https://www.tokopedia.com/retinaa/crimson-badusb-usb-security-pentester)
+
 ## Donate
 
 You can support me at [Trakteer](https://trakteer.id/kdandy/tip). or
