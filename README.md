@@ -18,8 +18,7 @@ https://user-images.githubusercontent.com/50922642/174858952-66123f19-40e2-4513-
 git clone https://github.com/kdandy/TelegramRAT-BadUSB
 ```
 
-2. Open `Used your BadUSB` to see the computer 
-Edit `script_tele/MainMod.ps1` and follow the installation video I added.
+2. Open File and edit `script_tele/MainMod.ps1` and follow the installation video I added.
 
 ## Demo and Documentation
 
