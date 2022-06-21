@@ -6,6 +6,10 @@
 
 https://user-images.githubusercontent.com/50922642/174858819-cad2ab38-4dd5-4ac6-81eb-4c69d61475c9.mp4
 
+</p>
+
+https://user-images.githubusercontent.com/50922642/174858952-66123f19-40e2-4513-a264-ddf4be9ec88a.mp4
+
 ## Installation
 
 1. Clone this repository or download zip
